@@ -12,7 +12,7 @@ If you have any question, please open an issue or contact crushna@163.com.
 
 
 ## Datasets
-We provide a runnable version of RC15 and RetailRocket. You can run this program directly using dataset in "[Google Drive]"https://drive.google.com/drive/folders/19OoKDiXXr0JKnnizGKDNx0KPugbKhiG-?usp=drive_link. You should download and move it under./data/.
+We provide a runnable version of RC15 and RetailRocket. You can run this program directly using dataset in "[Google Drive](https://drive.google.com/drive/folders/19OoKDiXXr0JKnnizGKDNx0KPugbKhiG-?usp=drive_link)". You should download and move it under "./data/."
 
 If you want to get "meituan" dataset and more processing details, please contact crushna@163.com.
 
